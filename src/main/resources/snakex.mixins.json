@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.snakex.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "TitleScreenMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
